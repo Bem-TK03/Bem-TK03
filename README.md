@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bem-TK03
+- 👋 Hi, I’m @Bemuel
 - 👀 I’m interested in data analysis and coding
 - 🌱 I’m currently learning data science and analytics
 - 💞️ I’m looking to collaborate on the various fields stated above
